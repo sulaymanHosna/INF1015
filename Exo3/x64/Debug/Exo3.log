@@ -1,0 +1,4 @@
+﻿  Exo3.cpp
+C:\Users\jason\Desktop\Poly 2022\INF1015\TP1\TP1\Exo3\Exo3.cpp(28,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jason\Desktop\Poly 2022\INF1015\TP1\TP1\Exo3\Exo3.cpp(62,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Exo3.vcxproj -> C:\Users\jason\Desktop\Poly 2022\INF1015\TP1\TP1\x64\Debug\Exo3.exe
